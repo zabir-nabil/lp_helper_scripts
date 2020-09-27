@@ -1,0 +1,3 @@
+# lp bounding box rest api
+
+server location: 222, nabil/yolov3/darknet/darknet_server.py endpoint: predict_b64
